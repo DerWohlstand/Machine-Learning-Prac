@@ -1,44 +1,6 @@
 
 
 
-Semester: I
-Subject Name: Embedded and Iot Technology
-Name: Aishwarya Pandurang Jawalekar
-Class: MSc. Computer Science (Part-1)
-Roll No.: 18
-Exam Seat No.: 13228318
-
-
-
-
-
-
-
-
-
-
-This is to certify that
-
-Mr. /Miss. 			Aishwarya Pandurang Jawalekar
-
-Roll No. 18 Exam Seat No. 13228318 Satisfactorily completed the Practical in Embedded And Iot Technology As laid down in the regulation of University Of Mumbai for the purpose of MSc (Computer Science) Semester -I   (Practical) Examination 2022 -2023 .
-
-Date:       
-Place:                          
-                                                                                                                         Head
-                                                                                                        Dept. of Computer Science
-                                                                                                           Signature of Examiners
-
-Professor In-charge Computer Science
- 1)_______________________
-   2)_______________________
-
-
-
-(DEPARTMENT OF COMPUTER SCIENCE)
-
-
-
 Date	Sr. No.	Practical Name	Pg. No.	Remark
 	
 
