@@ -2,6 +2,7 @@ Libraries Required – pandas, matplotlib, seaborn
 
 import pandas as pd
 import matplotlib.pyplot as plt
+%pip install seaborn
 import seaborn as sns
 
 #Define the col names colnames=["sepal_length_in_cm",
